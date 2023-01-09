@@ -1,0 +1,1 @@
+Current Project is a HTML index page that will have links to a few recipes, using HTML tags and attributes (images, hyperlinks etc)
